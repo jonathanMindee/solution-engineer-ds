@@ -20,6 +20,9 @@ What would you change / add in your training process to optimize the results?
 
 # The restitution
 
-During the restitution, we'll assess your code quality, your ability to deliver a end-to-end demo, and will ask you questions about the models and how to optimize it.
+During the restitution, we will:
+- review your code quality using your training and inference scripts
+- check your ability to deliver a end-to-end demo
+- ask you questions about the models and how to optimize it
 
 Good luck!
