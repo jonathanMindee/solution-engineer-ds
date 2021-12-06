@@ -18,9 +18,9 @@ Show us how your model is performing during a live demo.
 
 What would you change / add in your training process to optimize the results?
 
-# The restitution
+# Preparing your interview
 
-During the restitution, we will:
+During your presentation, we will:
 - review your code quality using your training and inference scripts
 - check your ability to deliver a end-to-end demo
 - ask you questions about the models and how to optimize it
