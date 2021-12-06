@@ -22,8 +22,4 @@ What would you change / add in your training process to optimize the results?
 
 During the restitution, we'll assess your code quality, your ability to deliver a end-to-end demo, and will ask you questions about the models and how to optimize it.
 
-- Python training and inference script code analysis
-- Live demo
-- Q&A session
-
 Good luck!
